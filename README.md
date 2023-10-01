@@ -1,3 +1,5 @@
-# dark-theme-example
+### javascript-dark-theme-object-oriented
 
-[Deploy](https://gisellebarbosa.github.io/dark-theme-example/)
+[Deploy](https://gisellebarbosa.github.io/javascript-dark-theme-example/)
+
+
